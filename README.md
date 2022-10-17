@@ -1,15 +1,17 @@
 # prestonButton
 
 <h1 align="center">Hi 👋, I'm Preston</h1>
-<h3 align="center">A passionate frontend developer from the United States</h3>
+<h3 align="center">A frontend developer from the United States</h3>
 
+<!-- Maybe add this later when my stats are better
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prestonbutton&label=Profile%20views&color=0e75b6&style=flat" alt="prestonbutton" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prestonbutton" alt="prestonbutton" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prestonbutton" alt="prestonbutton" /></a> </p> -->
 
-- 🌱 I’m currently learning **all aspects of frontend development, such as HTML, CSS, JavaScript, and React, as well as some backend as I pursue my goal of becoming a full-stack developer.**
+<!--
+- 🌱 I’m currently learning **all aspects of frontend development, such as HTML, CSS, JavaScript, and React, as well as some backend as I pursue my goal of becoming a full-stack developer.** -->
 
-- 📫 How to reach me **prestonbutton99@gmail.com**
+<!-- - 📫 How to reach me **prestonbutton99@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +19,7 @@
   <a href="https://linkedin.com/in/preston-button" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preston-button" height="30" width="40" /></a>
   <a href="https://dev.to/prestonbutton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prestonbutton" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/pbutto01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pbutto01" height="30" width="40" /></a>
+  <a href="mailto:prestonbutton99@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email me at prestonbutton99@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,6 +37,8 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/prestonButton/prestonButton/blob/main/devcard.svg" width="250" ALIGN=”left” alt="Preston Button's Dev Card"/></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prestonbutton&show_icons=true&locale=en&layout=compact" alt="prestonbutton" /></p>
+<br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prestonbutton&show_icons=true&locale=en" alt="prestonbutton" /></p>
 
