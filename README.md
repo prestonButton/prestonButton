@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/preston_button" target="blank"><img src="https://img.shields.io/twitter/follow/preston_button?logo=twitter&style=for-the-badge" alt="preston_button" /></a> </p>
 
-- 🌱 I’m currently learning **all aspects of frontend development, such as HTML, CSS, JavaScript, and React, as well as some backend asI pursue my goal of becoming a full-stack developer.**
+- 🌱 I’m currently learning **all aspects of frontend development, such as HTML, CSS, JavaScript, and React, as well as some backend as I pursue my goal of becoming a full-stack developer.**
 
 - 📫 How to reach me **prestonbutton99@gmail.com**
 
