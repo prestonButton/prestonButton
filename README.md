@@ -36,7 +36,7 @@
   
 <hr>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/prestonButton/prestonButton/blob/main/devcard.svg" width="250" ALIGN=”left” alt="Preston Button's Dev Card"/></a>
+<a href="https://app.daily.dev/PrestonButton"><img src="https://github.com/prestonButton/prestonButton/blob/main/devcard.svg" width="250" ALIGN=”left” alt="Preston Button's Dev Card"/></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prestonbutton&show_icons=true&locale=en&layout=compact" alt="prestonbutton" /></p>
 
