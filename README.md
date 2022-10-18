@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me, I'm willing to work:</h3>
 <p align="left">
   <a href="https://twitter.com/preston_button" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preston_button" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/preston-button" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preston-button" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/preston-button-79b7b31b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preston-button" height="30" width="40" /></a>
   <a href="https://dev.to/prestonbutton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prestonbutton" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/pbutto01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pbutto01" height="30" width="40" /></a>
   <a href="mailto:prestonbutton99@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email me at prestonbutton99@gmail.com" height="30" width="40" /></a>
