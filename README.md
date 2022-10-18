@@ -1,6 +1,6 @@
 # prestonButton
 
-<h1 align="center">Hi 👋, I'm Preston</h1>
+<h1 align="center">Hi, I'm Preston</h1>
 <h3 align="center">A frontend developer from the United States</h3>
 
 <!-- Maybe add this later when my stats are better
