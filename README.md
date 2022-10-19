@@ -40,13 +40,12 @@
   
 <hr>
 
-<div style="display: inline-block">
   <a href="https://app.daily.dev/PrestonButton"><img src="https://github.com/prestonButton/prestonButton/blob/main/devcard.svg" width="250" ALIGN=”left” alt="Preston Button's Dev Card"/></a>
+  <br>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prestonbutton&show_icons=true&locale=en&layout=compact" alt="prestonbutton" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prestonbutton&show_icons=true&locale=en" alt="prestonbutton" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prestonbutton&" alt="prestonbutton" /></p>
-  </div>
 
