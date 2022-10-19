@@ -5,6 +5,8 @@
 
 <p align="center"> I'm currently learning React as well as working towards my Bachelors in Computer Science at Villanova University</p>
 
+<hr>
+
 <!-- Maybe add this later when my stats are better
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prestonbutton&label=Profile%20views&color=0e75b6&style=flat" alt="prestonbutton" /> </p>
 
