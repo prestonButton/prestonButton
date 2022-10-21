@@ -7,8 +7,8 @@
 
 <hr>
 <h3 align="left">Current Project</h3>
-<Currently working with <a href="https://github.com/Software-Development-Society">Villanova Software Developement Society</a> on our current project
-<a href="https://github.com/Software-Development-Society/roommate-matcher">Roommate Matcher</a>, a service to help students find potential roommates for university.
+<p>Currently working with <a href="https://github.com/Software-Development-Society">Villanova Software Developement Society</a> on our current project
+<a href="https://github.com/Software-Development-Society/roommate-matcher">Roommate Matcher</a>, a service to help students find potential roommates for university.</p>
 
 <hr>
 
