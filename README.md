@@ -6,6 +6,11 @@
 <p align="center"> I'm currently learning React as well as working towards my Bachelors in Computer Science at Villanova University</p>
 
 <hr>
+<h3 align="left">Current Project</h3>
+<Currently working with <a href="https://github.com/Software-Development-Society">Villanova Software Developement Society</a> on our current project
+<a href="https://github.com/Software-Development-Society/roommate-matcher">Roommate Matcher</a>, a service to help students find potential roommates for university.
+
+<hr>
 
 <!-- Maybe add this later when my stats are better
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prestonbutton&label=Profile%20views&color=0e75b6&style=flat" alt="prestonbutton" /> </p>
