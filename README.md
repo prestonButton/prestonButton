@@ -6,7 +6,7 @@
 <p align="center"> I'm currently learning React as well as working towards my Bachelors in Computer Science at Villanova University</p>
 
 <hr>
-<h3 align="left">Current Project</h3>
+<h3 align="left">Current Project:</h3>
 <p>Currently working with <a href="https://github.com/Software-Development-Society">Villanova Software Developement Society</a> on our current project
 <a href="https://github.com/Software-Development-Society/roommate-matcher">Roommate Matcher</a>, a service to help students find potential roommates for university.</p>
 
