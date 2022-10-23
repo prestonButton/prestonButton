@@ -54,6 +54,6 @@
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prestonbutton&" alt="prestonbutton" /></p>
   
-  <p><img align="center" src="profile-3d-contrib/profile-green.svg" alt="prestonbutton" /></p>
+  <p><img align="center" src="profile-3d-contrib/profile-green.svg" alt="prestonbutton" width="500px"/></p>
 
 
