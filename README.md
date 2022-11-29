@@ -3,12 +3,13 @@
 <h1 align="center">Hi, I'm Preston</h1>
 <h3 align="center">A frontend developer from the United States</h3>
 
-<p align="center"> I'm currently learning TypeScript, Solidity, and React as well as working towards my Bachelors in Computer Science at Villanova University</p>
+<p align="center"> I'm currently learning Solidity, TypeScript, and React as well as working towards my Bachelors in Computer Science at Villanova University</p>
 
 <hr>
-<h3 align="left">Current Project:</h3>
+<h3 align="left">Current Projects:</h3>
 <p>Currently working with <a href="https://github.com/Software-Development-Society">Villanova Software Developement Society</a> on our current project
-<a href="https://github.com/Software-Development-Society/roommate-matcher">Roommate Matcher</a>, a service to help students find potential roommates for university.</p>
+<a href="https://github.com/Software-Development-Society/roommate-matcher">Roommate Matcher</a>, a service to help students find potential roommates for university.</p><br><br>
+<p>I am also building a GPT-3 Writer following the <a href=https://buildspace.so/p/build-ai-writing-assistant-gpt3?action=enroll target="_blank">build on Buildspace</a></p>
 
 <hr>
 
