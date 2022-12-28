@@ -9,7 +9,7 @@
 <h3 align="left">Current Projects:</h3>
 <p>Currently working with <a href="https://github.com/Software-Development-Society">Villanova Software Developement Society</a> on our current project
 <a href="https://github.com/Software-Development-Society/roommate-matcher">Roommate Matcher</a>, a service to help students find potential roommates for university.</p><br><br>
-<p>I am also building a GPT-3 Writer following the <a href=https://buildspace.so/p/build-ai-writing-assistant-gpt3?action=enroll target="_blank">build on Buildspace</a></p>
+<p><a href=https://buildspace.so/p/build-ai-writing-assistant-gpt3?action=enroll target="_blank">I also build on Buildspace</a></p>
 
 <hr>
 
