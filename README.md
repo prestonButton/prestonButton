@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prestonbutton" alt="prestonbutton" /></a> </p> -->
 
 <!--
--I’m currently learning **all aspects of frontend development, such as HTML, CSS, JavaScript, and React, as well as some backend as I pursue my goal of becoming a full-stack developer ad software engineer.** -->
+-I’m currently learning **all aspects of frontend development, such as HTML, CSS, JavaScript, and React, as well as some backend as I pursue my ultimate goal of becoming a full-stack developer ad software engineer.** -->
 
 <!-- - 📫 How to reach me **prestonbutton99@gmail.com** -->
 
