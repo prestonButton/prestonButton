@@ -13,7 +13,7 @@ stay away
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prestonbutton" alt="prestonbutton" /></a> </p> -->
 
 <!--
-I am a frontend dev-->
+I am a frontend developer-->
 
 <!-- - 📫 How to reach me **prestonbutton99@gmail.com** -->
 
