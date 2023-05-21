@@ -7,7 +7,7 @@
 
 <hr>
 
-<!-- Maybe add this stuff later when my stats are better I like this tho. Could be a good thing to add
+<!-- Maybe add this stuff later when my stats are better I like this tho. Could be a good thing to add. But not right now. It is pretty good rn
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prestonbutton&label=Profile%20views&color=0e75b6&style=flat" alt="prestonbutton" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prestonbutton" alt="prestonbutton" /></a> </p> -->
