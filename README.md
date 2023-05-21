@@ -7,16 +7,6 @@
 
 <hr>
 
-<!-- Maybe add this stuff later when my stats are better I like this tho. Could be a good thing to add. But not right now. It is pretty good rn
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prestonbutton&label=Profile%20views&color=0e75b6&style=flat" alt="prestonbutton" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prestonbutton" alt="prestonbutton" /></a> </p> -->
-
-<!--
-I am a frontend developer-->
-
-<!-- - 📫 How to reach me **prestonbutton99@gmail.com** -->
-
 <h3 align="left">Connect with me, I'm willing to work:</h3>
 <p align="left">
   <a href="https://twitter.com/preston_button" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preston_button" height="30" width="40" /></a>
