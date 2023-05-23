@@ -7,7 +7,6 @@
 
 <hr>
 
-<-- qwerty this needs help -->
 
 <h3 align="left">Connect with me, I'm willing to work:</h3>
 <p align="left">
