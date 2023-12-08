@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Preston</h1>
 <h3 align="center">A frontend developer from the United States</h3>
 
-<p align="center"> I'm a react developer working towards my Bachelors in Computer Science at Villanova University</p>
+<p align="center"> I'm a full stack developer working towards my Bachelors in Computer Science at Villanova University</p>
 
 <hr>
 
