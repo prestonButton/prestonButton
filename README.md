@@ -33,7 +33,7 @@
   </a>  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
   
 <hr>
-<!-- these graphics do seriously really sometimes have trouble may need fixingi just this thing-->
+<!-- these graphics do really seriously really sometimes have trouble may need fixingi just this thing-->
 
   <a href="https://app.daily.dev/PrestonButton"><img src="https://github.com/prestonButton/prestonButton/blob/main/devcard.svg" width="250" ALIGN=”left” alt="Preston Button's Dev Card"/></a>
   <br>
