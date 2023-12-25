@@ -3,4 +3,4 @@
 
 Questions? email me at [preston@traintobecome.com](mailto:preston@traintobecome.com).
 
-## I also build projects on my own and do contract work here and there. Send me a message if you want me to do anything!
+### I also build projects on my own and do contract work here and there. Send me a message if you want me to do anything!
